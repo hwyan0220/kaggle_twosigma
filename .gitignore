@@ -7,3 +7,5 @@
 *.zip
 .Rproj.user/
 *.Rproj
+.ipynb_checkpoints/
+.DS_Store
