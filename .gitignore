@@ -9,3 +9,4 @@
 *.Rproj
 .ipynb_checkpoints/
 .DS_Store
+.pkl
