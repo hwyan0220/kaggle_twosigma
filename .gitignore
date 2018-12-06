@@ -7,3 +7,7 @@
 *.zip
 .Rproj.user/
 *.Rproj
+market_train_df.pkl
+news_train_df.pkl
+.ipynb_checkpoints
+.DS_Store
